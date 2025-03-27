@@ -26,10 +26,10 @@
         "[QA]",
         "[EVAL]"
     ],
-    "civilianServerGroups": [""],
+    "civilianServerGroups": ["22946"],
     "civChannels": [0],
-    "radioSystems": [],
-    "rtoChannels": [],
+    "radioSystems": ["19118", "19135", "19151"],
+    "rtoChannels": ["19123", "19125", "19126", "19140", "19142", "19143", "19156", "19158", "19159"],
     "radioChannels": [
         {
             "id": 1,
